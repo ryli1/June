@@ -200,8 +200,8 @@ const sectionData = [
     ["It felt like a date but I think you just came for the cats...\nJK"],
     ["I was happy that someone wanted to see cats with me,\nbut I was really happy it was you bcause I thought you were super nice."],
     ["I-it's not cause I liked you or anything, you baka!"]],
-    image1: "./assets/images/IMG_1.png",
-    extraImages: ["./assets/images/IMG_1_2.jpg"],
+    image1: "./images/IMG_1.png",
+    extraImages: ["./images/IMG_1_2.jpg"],
     customClass: "spam-section"
   },
   {
@@ -210,14 +210,14 @@ const sectionData = [
     ["Actually, I already liked you then and I thought you didn't, so\nI tried to stop talking to you to get over it."],
     ["But then, you were like:\n'Can we walk again'\n'Together.'"],
     ["And so I gave up not talking to you pretty fast."]],
-    image1: "./assets/images/IMG_3.png",
-    extraImages: ["./assets/images/IMG_3_2.jpg"]
+    image1: "./images/IMG_3.png",
+    extraImages: ["./images/IMG_3_2.jpg"]
   },
   {
     title: "4",
     dialogueSets: [["1/25/2025\nAcademy of Sciences + Thai Food + Sick."],
     ["I suspect the shrimp or water you didn't consume is guilty."]],
-    image1: "./assets/images/IMG_4.png"
+    image1: "./images/IMG_4.png"
   },
   {
     title: "5",
@@ -226,38 +226,38 @@ const sectionData = [
     ["The day before, I went out at 8pm to get some nata de coco\nfor the sago."],
     ["I was scared you would think the flowers and mango sago were weird,\nespecially since it was Valentine's Day."],
     ["Tell me what you thought of it, tell meee."]],
-    image1: "./assets/images/IMG_5.jpg",
-    extraImages: ["./assets/images/IMG_5_2.jpg"]
+    image1: "./images/IMG_5.jpg",
+    extraImages: ["./images/IMG_5_2.jpg"]
   },
   {
     title: "6",
     dialogueSets: [["3/8/2025\nYummy. Sushi and gardens. I didn't get my fish soy sauce, though."],
     ["It was so picturesque and I want to do a real picnic with you next time.\nYou can bring salad and fruit and I can bring mushy pea soup and sandwiches."],
     ["I was planning to say I liked you and ask you to JProm, but I got too nervous,\nso only one of those happened."]],
-    image1: "./assets/images/IMG_6.jpeg",
-    extraImages: ["./assets/images/IMG_6_2.jpeg"]
+    image1: "./images/IMG_6.jpeg",
+    extraImages: ["./images/IMG_6_2.jpeg"]
   },
   {
     title: "7",
     dialogueSets: [["3/22/2025\nLook how awkward. (￣_￣|||)"],
     ["I hope you had fun even though I wasn't really aware of 'prom etiquette.'"],
     ["You were so cute too, when you were holding my arm."]],
-    image1: "./assets/images/IMG_7.jpg"
+    image1: "./images/IMG_7.jpg"
   },
   {
     title: "8",
     dialogueSets: [["4/5/2025\nYay, Breadbelly and Exploratorium and your mango sticky rice and Taishoken."],
     ["Also I think I told you something that night? I forgot."],
     ["Let's go Exploratorium again!"]],
-    image1: "./assets/images/IMG_8.png",
-    extraImages: ["./assets/images/IMG_9.jpeg"]
+    image1: "./images/IMG_8.png",
+    extraImages: ["./images/IMG_9.jpeg"]
   },
   {
     title: "10",
     dialogueSets: [["4/19/2025\nTragic phone drop day..."],
     ["But the Balloon Museum was so fun, and a little strange. And you also told me\nyou liked meeee, eeee."],
     ["Also pricey pasta was interesting. 7/10 ngl "]],
-    image1: "./assets/images/IMG_10.jpg"
+    image1: "./images/IMG_10.jpg"
   },
   {
     title: "11",
@@ -265,78 +265,78 @@ const sectionData = [
     ["This might be weird, but since I began liking you, I always tried to bump into\nyou a little so I could hold your hand."],
     ["When I finally got to hold your hand, my heart was beating so fast and it was\nlike so epic."],
     ["Dear, won't you take my hand to many more anniversaries?(づ￣ 3￣)づ"]],
-    image1: "./assets/images/IMG_11.jpeg",
-    extraImages: ["./assets/images/IMG_11_2.jpeg"]
+    image1: "./images/IMG_11.jpeg",
+    extraImages: ["./images/IMG_11_2.jpeg"]
   },
   {
     title: "12",
     dialogueSets: [["6/7/2025\nLook, so cutie."],
     ["I was waiting the whole time to hug you, wish I had asked earlier. :C"],
     ["Also this milk sweater is so cute but it's too big for me. You should take it."]],
-    image1: "./assets/images/IMG_12.jpg"
+    image1: "./images/IMG_12.jpg"
   },
   {
     title: "13",
     dialogueSets: [["7/7/2025\nFirst cuddles."],
     ["Yay."]],
-    image1: "./assets/images/IMG_13.jpeg"
+    image1: "./images/IMG_13.jpeg"
   },
   {
     title: "14",
     dialogueSets: [["7/21/2025\nWindy zoo day."],
     ["I got to hold your hand the whole time, heh."],
     ["What happened to that beret, too?"]],
-    image1: "./assets/images/IMG_14.jpeg"
+    image1: "./images/IMG_14.jpeg"
   },
   {
     title: "15",
     dialogueSets: [["7/25/2025\nYummy snickerdoodle cookies."],
     ["I still have some of the cream of tartar, we should make some more."]],
-    image1: "./assets/images/IMG_15.jpg"
+    image1: "./images/IMG_15.jpg"
   },
   {
     title: "16",
     dialogueSets: [["8/3/2025\nSuchee."],
     ["Next time, you should put the whole chunk of wasabi in. I wanna feel that nose burn and\nmy eyes water."]],
-    image1: "./assets/images/IMG_16.jpeg"
+    image1: "./images/IMG_16.jpeg"
   },
   {
     title: "17",
     dialogueSets: [["8/16/2025\nMmmmm, hot pot on a cold day."],
     ["I wanna go again..."]],
-    image1: "./assets/images/IMG_17.jpeg",
-    extraImages: ["./assets/images/IMG_17_2.jpg"]
+    image1: "./images/IMG_17.jpeg",
+    extraImages: ["./images/IMG_17_2.jpg"]
   },
   {
     title: "18",
     dialogueSets: [["9/18/2025\nFamily photo!"]],
-    image1: "./assets/images/IMG_18.jpg"
+    image1: "./images/IMG_18.jpg"
   },
   {
     title: "19",
     dialogueSets: [["10/10/2025\nSpiderman: Homecoming"],
     ["I actually fought a supervillain for you in the bathroom when you weren't watching.\nNo problem m'lady."]],
-    image1: "./assets/images/IMG_19.jpg"
+    image1: "./images/IMG_19.jpg"
   },
   {
     title: "20",
     dialogueSets: [["11/22/2025\nFunny penguin balloon pic day."],
     ["I only need 25% sugar when I'm with you cause you're so sweet."]],
-    image1: "./assets/images/IMG_20.jpeg"
+    image1: "./images/IMG_20.jpeg"
   },
   {
     title: "21",
     dialogueSets: [["12/19/2025\nFive Night's At Freddy's! Is this where you wanna be?"],
     ["And you so cutie, can you wear my hoodies again. 🥺"]],
-    image1: "./assets/images/IMG_21.jpeg"
+    image1: "./images/IMG_21.jpeg"
   },
   {
     title: "22",
     dialogueSets: [["12/20-12/22/2025\nDizuneerando"],
     ["Mickey's Railway ride was so cool, and the pineapple whip was 'gobsmacking', (9/10).\nI know it seems I didn't like it but I was happy seeing you so excited."],
     ["I hope we can go again, soon. I mightt have to eat you though."]],
-    image1: "./assets/images/IMG_22.jpg",
-    extraImages: ["./assets/images/IMG_22_2.jpeg"]
+    image1: "./images/IMG_22.jpg",
+    extraImages: ["./images/IMG_22_2.jpeg"]
   },
   {
     title: "23",
@@ -345,64 +345,64 @@ const sectionData = [
     ["And you were so cuttteeeeee. Impossible challenge: name 3 dates better than this day."],
     ["Even though you don't like it, I wish you would play the piano more.\nYou play really beautifully and I really admire you when you do."],
     ["Maybe we could duet..?"]],
-    image1: "./assets/images/IMG_23.jpg",
-    extraImages: ["./assets/images/IMG_24.jpg", "./assets/images/IMG_23_2.jpg", "./assets/images/IMG_23_3.jpeg"]
+    image1: "./images/IMG_23.jpg",
+    extraImages: ["./images/IMG_24.jpg", "./images/IMG_23_2.jpg", "./images/IMG_23_3.jpeg"]
   },
   {
     title: "25",
     dialogueSets: [["2/7/2026\nSomebody's birthday thing."],
     ["Taishoken is becoming more and more special with you."]],
-    image1: "./assets/images/IMG_25.jpg"
+    image1: "./images/IMG_25.jpg"
   },
   {
     title: "26",
     dialogueSets: [["2/14/2026\nBalentine Dai"],
     ["I'm sorry about the flowers and toopid cold sore. :("],
     ["Next Valentine's Day will be better, pinky promises."]],
-    image1: "./assets/images/IMG_26.jpeg"
+    image1: "./images/IMG_26.jpeg"
   },
   {
     title: "27",
     dialogueSets: [["4/1/2026\nWoah, there's ta-no way you went to Tano with me."],
     ["But there's ta-yes way that our own bread was on par."]],
-    image1: "./assets/images/IMG_27.jpg"
+    image1: "./images/IMG_27.jpg"
   },
   {
     title: "28",
     dialogueSets: [["4/18/2026\nPrommy with my mo-"],
     ["I hope you had fun walking around and eating cake with me."],
     ["Next time, let's dress up fancy on a nice date just for no reason. We can go to a fancy\nrestaurant and roleplay. I don't know if I can't match your dresses' elegantness level though, ugh!"]],
-    image1: "./assets/images/IMG_28.jpeg"
+    image1: "./images/IMG_28.jpeg"
   },
   {
     title: "29",
     dialogueSets: [["6/1/2026\nWoah, I got a picture with a member of Lowell's honor society :O."],
     ["Graduation honestly didn't feel that big of an achievement, but you made it feel\nlike I should be proud."],
     ["Thank you for that and for the lei and the flowers and for coming to \nAshton's birthday afterwards."]],
-    image1: "./assets/images/IMG_29.png"
+    image1: "./images/IMG_29.png"
   },
   {
     title: "30",
     dialogueSets: [["6/6/2026\nHeh. I guess you were my Jujutsu Kaisen..."]],
-    image1: "./assets/images/IMG_30.jpeg"
+    image1: "./images/IMG_30.jpeg"
   },
   {
     title: "31",
     dialogueSets: [["6/27/2026\nKayla's Birthday!"],
     ["The food was, like, oh em gee, so good. Your hot dog was fire too, by the way, no caps."],
     ["I loved napping with you, buttt we might have fifth wheeled Isaac."]],
-    image1: "./assets/images/IMG_31.jpg"
+    image1: "./images/IMG_31.jpg"
   },
   {
     title: "32",
     dialogueSets: [["7/4/2026\nLook at her. So beautiful, so majestic, so aesthetic."]],
-    image1: "./assets/images/IMG_32.jpg"
+    image1: "./images/IMG_32.jpg"
   },
   {
     title: "33", text: " ",
     dialogueSets: [["L O A D I N G  F U T U R E  D A T E S . . ."],
     ["R E T U R N  T O  B E G I N N I N G . . ."]],
-    image1: "./assets/images/loading.gif",
+    image1: "./images/loading.gif",
     customClass: "loading-section"
   }
 ];
@@ -619,19 +619,19 @@ document.addEventListener('keydown', function (a) {
 });
 
 const hampterImages = [
-  "./assets/images/IMGH1.jpg",
-  "./assets/images/IMGH2.jpg",
-  "./assets/images/IMGH3.jpg",
-  "./assets/images/IMGH4.jpg",
-  "./assets/images/IMGH5.png",
-  "./assets/images/IMGH6.jpg",
-  "./assets/images/IMGH7.jpg",
-  "./assets/images/IMGH8.jpg",
-  "./assets/images/IMGH9.jpg",
-  "./assets/images/IMGH10.jpg",
-  "./assets/images/IMGH11.jpg",
-  "./assets/images/IMGH12.jpg",
-  "./assets/images/IMGH13.jpg"
+  "./images/IMGH1.jpg",
+  "./images/IMGH2.jpg",
+  "./images/IMGH3.jpg",
+  "./images/IMGH4.jpg",
+  "./images/IMGH5.png",
+  "./images/IMGH6.jpg",
+  "./images/IMGH7.jpg",
+  "./images/IMGH8.jpg",
+  "./images/IMGH9.jpg",
+  "./images/IMGH10.jpg",
+  "./images/IMGH11.jpg",
+  "./images/IMGH12.jpg",
+  "./images/IMGH13.jpg"
 ];
 
 const photoGrid = document.querySelector('.photo-grid');
